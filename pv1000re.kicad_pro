@@ -469,7 +469,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "Spice",
     "ngspice": {
       "fix_include_paths": true,
       "meta": {
@@ -480,8 +480,8 @@
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
-    "spice_current_sheet_as_root": false,
-    "spice_external_command": "spice \"%I\"",
+    "spice_current_sheet_as_root": true,
+    "spice_external_command": "true",
     "spice_model_current_sheet_as_root": true,
     "spice_save_all_currents": false,
     "spice_save_all_voltages": false,
